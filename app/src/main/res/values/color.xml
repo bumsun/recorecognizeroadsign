@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- <color name="colorPrimary">#3F51B5</color>
+     <color name="colorPrimaryDark">#303F9F</color>
+     <color name="colorAccent">#FF4081</color>-->
+    <color name="colorPrimary">#f3efee</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#0177b1</color>
+
+    <color name="white_element">#fff</color>
+    <color name="background">#999</color>
+    <color name="blue">#49a4df</color>
+    <color name="blue_light">#60b5ef</color>
+    <color name="red">#d50000</color>
+    <color name="dark_red">#6e0000</color>
+
+    <color name="black">#000000</color>
+    <color name="dark_grey">#424242</color>
+    <color name="light_grey">#bdbdbd</color>
+    <color name="black_70">#be000000</color>
+    <color name="black_40">#66000000</color>
+    <color name="dark_gray">#1d1e1f</color>
+    <color name="dark_grey_background">#242424</color>
+    <color name="grey_not_grey">#0d0d0d</color>
+
+    <color name="main_activity_background">#25272a</color>
+
+    <color name="white_alpha_85">#ddffffff</color>
+    <color name="white_alpha_50">#7fffffff</color>
+    <color name="white_alpha_30">#45ffffff</color>
+    <item name="text_gray" type="color">#bdbdbd</item>
+    <item name="grey_background" type="color">#c2c1c1</item>
+    <item name="grey_dialog" type="color">#424242</item>
+    <item name="grey_background_light" type="color">#e9e5e5</item>
+    <item name="black_alpha_50" type="color">#50000000</item>
+    <item name="item_pressed" type="color">#ff24c4ff</item>
+
+
+    <color name="primary">#26c2ff</color>
+    <color name="dialog_buttons">#7fcdc0</color>
+    <color name="dialog_buttons_pressed">#007662</color>
+    <color name="primary_pressed">#00a6e7</color>
+
+    <color name="green_button">#388e3c</color>
+    <color name="green_button_pressed">#1b5e20</color>
+    <item name="black_alpha_40" type="color">#66000000</item>
+</resources>
